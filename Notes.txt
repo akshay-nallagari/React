@@ -1,0 +1,10 @@
+
+--------------- EP-1 -----------------------
+
+cdn -> A content delivery network (CDN) is a geographically distributed group of servers that caches content close to end users.
+
+react-dom -> kind of bridge between react and the browser.
+
+In ReactJS, Cross-Origin Resource Sharing or CORS requests refers to the method that allows you to make requests to the server deployed at a different domain. As a reference, if the frontend and backend are at two different domains, we need CORS there. 
+
+--------------- EP-2 -----------------------
